@@ -1,0 +1,14 @@
+{
+  "sections": {
+    "main": {
+      "type": "article-template"
+    },
+    "comments": {
+      "type": "article-comments"
+    }
+  },
+  "order": [
+    "main",
+    "comments"
+  ]
+}

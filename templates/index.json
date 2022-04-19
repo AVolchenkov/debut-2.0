@@ -167,6 +167,45 @@
       "settings": {
         "section_height": "medium"
       }
+    },
+    "16503674843028f044": {
+      "type": "slideshow",
+      "blocks": {
+        "1650367484506fe6f4-0": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/depositphotos_192404672-stock-photo-closeup-of-turquoise-splashing-waves.webp",
+            "alignment": "center center",
+            "slide_title": "Image slide",
+            "subheading": "Tell your brand's story through images",
+            "button_label": "",
+            "button_link": ""
+          }
+        },
+        "1650367484506fe6f4-1": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/depositphotos_199052976-stock-photo-beautiful-view-of-sea-waves.webp",
+            "alignment": "center center",
+            "slide_title": "Image slide",
+            "subheading": "Tell your brand's story through images",
+            "button_label": "",
+            "button_link": ""
+          }
+        }
+      },
+      "block_order": [
+        "1650367484506fe6f4-0",
+        "1650367484506fe6f4-1"
+      ],
+      "settings": {
+        "slideshow_height": "adapt",
+        "text_size": "medium",
+        "text_alignment": "center center",
+        "show_overlay": true,
+        "autorotate": false,
+        "autorotate_speed": 5
+      }
     }
   },
   "order": [
@@ -176,6 +215,7 @@
     "collection",
     "hero-2",
     "quotes",
-    "image-bar"
+    "image-bar",
+    "16503674843028f044"
   ]
 }
